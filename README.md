@@ -1,5 +1,7 @@
 # ECR Image Scan Github Action
 
+!!! This repository was duplicated from https://github.com/alexjurkiewicz/ecr-scan-image !!!
+
 Scan an image uploaded to ECR and fail if vulnerabilities are found.
 
 ## Quick Start
